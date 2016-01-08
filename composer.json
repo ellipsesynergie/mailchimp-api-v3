@@ -1,5 +1,5 @@
 {
-    "name": "ellipsesynergie/mailchimp-apiv3",
+    "name": "ellipsesynergie/mailchimp-api-v3",
     "description": "Simple API wrapper for Mailchimp API V3",
     "type": "library",
     "keywords": [
